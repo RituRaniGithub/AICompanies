@@ -4,14 +4,14 @@ This is another practice of Data Scrapping using BeautifulSoup. This dataset con
 
 This dataset was scraped from Datamation(🔗https://www.datamation.com/featured/ai-companies/), containing insights into top AI firms.
 
-Columns
--🏢 Company Name – Name of the company
--📍 Headquarters – Location of HQ
--📅 Founded – Year of establishment
--💰 Annual Revenue – Reported revenue
--⭐ Glassdoor Score – Employee rating
+Columns :
+🏢 Company Name – Name of the company
+📍 Headquarters – Location of HQ
+📅 Founded – Year of establishment
+💰 Annual Revenue – Reported revenue
+⭐ Glassdoor Score – Employee rating
 
-Possible Uses
--🔹 Data Cleaning (removing symbols, normalizing data)
--🔹 Predictive Analysis (estimating revenue trends)
--🔹 AI Industry Insights
+Possible Uses :
+🔹 Data Cleaning (removing symbols, normalizing data)
+🔹 Predictive Analysis (estimating revenue trends)
+🔹 AI Industry Insights
