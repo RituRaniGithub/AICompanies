@@ -10,7 +10,7 @@ Columns :
 📅 Founded – Year of establishment
 💰 Annual Revenue – Reported revenue
 ⭐ Glassdoor Score – Employee rating
-
+ 
 Possible Uses :
 🔹 Data Cleaning (removing symbols, normalizing data)
 🔹 Predictive Analysis (estimating revenue trends)
